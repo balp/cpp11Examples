@@ -37,3 +37,11 @@ add_executable(thread
 target_link_libraries(thread
   pthread
 )
+
+add_executable(shared_ptr
+	shared_ptr.cpp
+)
+
+add_executable(algorithm
+	algorithm.cpp
+)
