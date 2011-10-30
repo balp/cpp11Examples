@@ -14,3 +14,7 @@ add_executable(auto
 add_executable(initializer
 	initializer.cpp
 )
+
+add_executable(default
+	default.cpp
+)
