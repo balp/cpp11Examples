@@ -10,3 +10,7 @@ add_executable(lambda
 add_executable(auto
 	auto.cpp
 )
+
+add_executable(initializer
+	initializer.cpp
+)
